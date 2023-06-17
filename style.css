@@ -9,7 +9,6 @@ canvas{
     margin: 0 auto;
 }
 
-/* Media Query for small screens */
 @media screen and (max-width: 768px) {
     canvas {
         width: 100%;
