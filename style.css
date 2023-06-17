@@ -4,9 +4,9 @@
 }
 
 canvas{
-    background: rgb(108, 107, 107);
-    display: block;
     margin: 0 auto;
+    display: block;
+    background: rgb(108, 107, 107);
 }
 
 @media screen and (max-width: 768px) {
